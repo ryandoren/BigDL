@@ -54,12 +54,11 @@ python super_resolution.py --backend bigdl
 - Run with torch_distributed backend:
 ```bash
 python super_resolution.py --backend torch_distributed
-
+```
 
 - Run with spark backend:
 ```bash
 python super_resolution.py --backend spark
-
 ```
 
 **Options**
